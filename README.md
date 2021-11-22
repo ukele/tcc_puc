@@ -2,4 +2,4 @@
 
 Trabalho de conclusão do curso - Ciência de dados e Big Data
 
-## Aluno: Antonio Aureliano dos Santos Neto
+<center> Aluno: Antonio Aureliano dos Santos Neto </center>
